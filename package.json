@@ -1,9 +1,19 @@
 {
-  "name": "Alryt-Bot-Discord",
+  "name": "alryt_bot_discord",
   "version": "1.0.0",
   "description": "Alryt Bot Discord",
-  "main": "app.js",
+  "main": "app.mjs",
   "repository": "https://github.com/AlerzDev/Alryt-Bot-Discord",
   "author": "Alejandro Lemus Rodriguez",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.3",
+    "discord.js": "^12.4.1",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "ffmpeg": "^0.0.4",
+    "ffmpeg-static": "^4.2.7",
+    "fluent-ffmpeg": "^2.1.2",
+    "ytdl-core": "^4.0.4"
+  }
 }
