@@ -1,0 +1,9 @@
+{
+  "name": "Alryt-Bot-Discord",
+  "version": "1.0.0",
+  "description": "Alryt Bot Discord",
+  "main": "app.js",
+  "repository": "https://github.com/AlerzDev/Alryt-Bot-Discord",
+  "author": "Alejandro Lemus Rodriguez",
+  "license": "MIT"
+}
